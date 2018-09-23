@@ -1,0 +1,1 @@
+This repo is intented to store my scripts on the Kaggle competition "Digit Recognizer".
