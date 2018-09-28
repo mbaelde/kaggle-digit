@@ -5,8 +5,9 @@ import matplotlib.pyplot as plt
 import keras             as K
 
 #%% Load train data
-folderData       = 'data\\'
-folderResults    = 'results\\'
+folderData       = 'Data\\'
+folderResults    = 'Results\\'
+folderModels     = 'TrainedModels\\'
 
 trainData        = pd.read_csv(folderData+'train.csv')
 # Get image and label from trainData
